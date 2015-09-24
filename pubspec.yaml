@@ -1,0 +1,13 @@
+name: places_api_key_proxy
+version: 0.0.1
+description: A proxy for Google Places API that adds API key to requests.
+author: Brett Morgan <brettmorgan@google.com>
+
+environment:
+  sdk: '>=1.0.0 <2.0.0'
+
+dependencies:
+  http: "^0.11.3+2"
+  args: "^0.13.2"
+  logging: "^0.11.1+1"
+  logging_handlers: "^0.8.0"
