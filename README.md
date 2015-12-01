@@ -1,7 +1,7 @@
 # Places API Key proxy
 
 A proxy for Google Places API that adds API key to requests. For a good tutorial on how to use 
-this Places API Proxy with Google Maps, please see 
+this Places API Proxy with Google Maps SDK for iOS, please see 
 [Google Maps iOS SDK Tutorial: Getting Started](http://www.raywenderlich.com/109888/google-maps-ios-sdk-tutorial).
 
 ## Usage
